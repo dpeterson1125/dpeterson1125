@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working the [Cloud Resume Challenge] (https://cloudresumechallenge.dev/docs/faq/)
+- 🔭 I’m currently working the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/faq/)
 - 🌱 I’m currently learning Azure and JavaScript
 - 👯 I’m looking to get a position working as a Systems Engineer or Systems Admin in the Public Cloud
 
