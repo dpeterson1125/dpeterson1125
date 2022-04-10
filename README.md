@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on getting Azure Cloud Certified
+- 🌱 I’m currently learning Azure and JavaScript
+- 👯 I’m looking to get a position working as a Systems Engineer or Systems Admin in the Public Cloud
+
 
 <!--
 **dpeterson1125/dpeterson1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
