@@ -2,7 +2,7 @@
 - 🔭 I’m currently working the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/faq/)
 - 🌱 I’m currently learning Azure and JavaScript
 - 👯 I’m looking to get a position working as a Systems Engineer or Systems Admin in the Public Cloud
-- 📫 see my resume at [whoisdavidpeterson.com](whoisdavidpeterson.com)
+- 📫 see my resume at [whoisdavidpeterson.com](https://whoisdavidpeterson.com)
 
 <!--
 **dpeterson1125/dpeterson1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
