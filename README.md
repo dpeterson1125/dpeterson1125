@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Coldwell Banker as a marketing specialist
+- 🔭 I’m currently working at Coldwell Banker as a Marketing Specialist
 - 🌱 I’m currently learning in depth Google Analytics
 - 👯 I’m looking to get a position working as a Marketing Specialist
 - 📫 see my resume at [whoisdavidpeterson.com](https://whoisdavidpeterson.com)
