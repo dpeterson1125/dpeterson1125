@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/faq/)
-- 🌱 I’m currently learning Azure, Terraform and JavaScript
-- 👯 I’m looking to get a position working as a Systems Engineer or Systems Admin in the Public Cloud
+- 🔭 I’m currently working at Coldwell Banker as a marketing specialist
+- 🌱 I’m currently learning in depth Google Analytics
+- 👯 I’m looking to get a position working as a Marketing Specialist
 - 📫 see my resume at [whoisdavidpeterson.com](https://whoisdavidpeterson.com)
 
 <!--
